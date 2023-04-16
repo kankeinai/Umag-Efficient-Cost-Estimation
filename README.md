@@ -5,7 +5,7 @@ https://github.com/khangroupkz/HackNU
 
 ## Expected performance
 
-> We expect average performance to behaviour as θ(n+m), where n is number of supplies and m is number of sales for a given period.
+> We expect average performance to be as θ(n+m), where n is number of supplies and m is number of sales for a given period.
 
 ## Repository structure
 
