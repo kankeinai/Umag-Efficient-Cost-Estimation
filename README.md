@@ -1,5 +1,8 @@
 # Umag Efficient Cost Estimation
 
+Detailed information about the case can be read here:
+https://github.com/khangroupkz/HackNU
+
 ## Repository structure
 
 * server.py – Contains Flask web application along with our algorith for efficient cost estimation
