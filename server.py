@@ -121,7 +121,7 @@ def get_sales_list():
         return  json.dumps([dict(zip(keys, row)) for row in result], indent=4)
     else:
 
-        return '', 204
+        return '', 404
 
 @app.route("/api/sales/<id>")
 def get_sale(id):
@@ -373,7 +373,7 @@ def get_report():
     
     else:
 
-        return '', 200
+        return '', 404
 
    
     
