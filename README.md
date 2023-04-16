@@ -3,6 +3,8 @@
 Detailed information about the case can be read here:
 https://github.com/khangroupkz/HackNU
 
+For algorithm cudos to https://github.com/usaginoki
+
 ## Expected performance
 
 > We expect average performance to be as θ(n+m), where n is number of supplies and m is number of sales for a given period. A formal proof can be attached later on.
