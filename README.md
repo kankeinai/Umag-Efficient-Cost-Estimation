@@ -1,5 +1,13 @@
 # Umag Efficient Cost Estimation
 
+## Repository structure
+
+server.py – Contains Flask web application along with our algorith for efficient cost estimation
+database.py – We modified database a little bit, so at first you need to run this file (simply by calling in terminal 'python database.py')
+
+## Innitial settings
+
+
 Requirements = flask, flask_restful, numpy
 
 ## Пример создания report
