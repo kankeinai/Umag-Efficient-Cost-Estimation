@@ -3,6 +3,10 @@
 Detailed information about the case can be read here:
 https://github.com/khangroupkz/HackNU
 
+## Expected performance
+
+> We expect average performance to behaviour as θ(n+m), where n is number of supplies and m is number of sales for a given period.
+
 ## Repository structure
 
 * server.py – Contains Flask web application along with our algorith for efficient cost estimation
