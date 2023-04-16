@@ -8,10 +8,19 @@
 
 ## Innitial settings
 
-
 Requirements = flask, flask_restful, numpy
 
-## Пример создания report
+## Пример вывода одной записи из sales/supply
+```
+    http://127.0.0.1:5000/api/sales/18
+```
+
+## Пример вывода списка записей за период из sales/supply
+```
+    http://127.0.0.1:5000/api/sales/18](http://127.0.0.1:5000/api/sales?barcode=4870204391510&fromTime=2022-10-25%2016%3A39%3A22&toTime=2022-10-25%2016%3A39%3A22)
+```
+
+## Пример создания report за период
 ```
 http://127.0.0.1:5000/api/reports?barcode=4680036912629&fromTime=2022-01-01%2009%3A35%3A31&toTime=2022-10-25%2016%3A39%3A22
 ```
