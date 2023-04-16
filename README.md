@@ -2,9 +2,9 @@
 
 ## Repository structure
 
-server.py – Contains Flask web application along with our algorith for efficient cost estimation
+* server.py – Contains Flask web application along with our algorith for efficient cost estimation
 
-database.py – We modified database a little bit, so at first you need to run this file (simply by calling in terminal 'python database.py'). In order to code work, you also need to place .sql scripts from this repository (we modified them also).
+* database.py – We modified database a little bit, so at first you need to run this file (simply by calling in terminal 'python database.py'). In order to code work, you also need to place .sql scripts from this repository (we modified them also).
 
 ## Innitial settings
 
