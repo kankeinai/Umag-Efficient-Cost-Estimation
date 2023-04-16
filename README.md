@@ -6,6 +6,10 @@
 
 * database.py – We modified database a little bit, so at first you need to run this file (simply by calling in terminal 'python database.py'). In order to code work, you also need to place .sql scripts from this repository (we modified them also).
 
+### Important functions
+* get_net_profit(barcode, start_time, end_time) - считает net-profit за период
+* calculate_margin(sales, supply) – пересчитывают маржу
+
 ## Innitial settings
 
 Requirements = flask, flask_restful, numpy
